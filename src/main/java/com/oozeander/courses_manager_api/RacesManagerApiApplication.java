@@ -1,0 +1,12 @@
+package com.oozeander.courses_manager_api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class RacesManagerApiApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(RacesManagerApiApplication.class, args);
+    }
+}
